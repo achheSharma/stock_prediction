@@ -1,5 +1,5 @@
 # stock_prediction
-Predicting return of 30th day for a given date stock information
+Predict Actual Return Value Of Stock After 30th Trading Days.
 
 Perform the following steps for desired execution
 
